@@ -1,0 +1,30 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'BS-WEEKLY by Linsto'
+
+# Parameters
+[params]
+    subtitle = "Fail often, fail earily."
+    dateFmt = "2006/01/02"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts"
+        weight = 1 
+
+  [[menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories"
+        weight = 2 
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags"
+        weight = 3
+
+
