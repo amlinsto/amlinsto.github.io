@@ -1,0 +1,12 @@
+{
+  "name": "linsto",
+  "version": "1.0.0",
+  "description": "linsto's works",
+  "main": "index.js",
+  "author": "linsto",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
