@@ -34,8 +34,8 @@ export default defineUserConfig<DefaultThemeOptions>({
             text: "Resources",
             children: [
               {
-                text: "友链",
-                link: "/links",
+                text: "我的书签",
+                link: "/bookmarks",
               },
             ],
           },
@@ -45,8 +45,8 @@ export default defineUserConfig<DefaultThemeOptions>({
     sidebar: "auto",
     sidebarDepth: 1,
     lastUpdated: true,
-    lastUpdatedText: "上次更新",
-    contributors: true,
+    lastUpdatedText: "发布于",
+    contributors: false,
     contributorsText: "贡献者",
   },
 

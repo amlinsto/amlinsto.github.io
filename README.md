@@ -2,17 +2,17 @@
 home: true
 title: Home
 features:
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Vue-Powered
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Performant
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-  - title: Themes
-    details: Providing a default theme out of the box. You can also choose a community theme or create your own one.
-  - title: Plugins
-    details: Flexible plugin API, allowing plugins to provide lots of plug-and-play features for your site. 
-  - title: Bundlers
-    details: Default bundler is Vite, while Webpack is also supported. Choose the one you like!
+  - title: Merchant of Venice
+    details: With mirth and laughter let old wrinkles come.And let my liver rather heat with wine.
+  - title: Don Quixote
+    details: Do you see over yonder, friend Sancho, thirty or forty hulking giants? I intend to do battle with them and slay them.
+  - title: Socrates
+    details: An enigmatic figure and a Greek philosopher from Athens who is credited as a founder of Western philosophy.
+  - title: John von Neumann
+    details: Von Neumann was a Hungarian-American mathematician, physicist, computer scientist, engineer and polymath.
+  - title: Usain Bolt
+    details: Usain St. Leo Bolt is a retired Jamaican sprinter, widely considered to be the greatest sprinter of all time.
+  - title: Home With Kids
+    details: Most episodes involve the parents' attempts to act as a good example for their children and teach them know right from wrong.
 footer: CC Licensed | Copyright © 2021-present Linsto
 ---
