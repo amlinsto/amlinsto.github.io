@@ -15,15 +15,23 @@ export default defineUserConfig<DefaultThemeOptions>({
     darkMode: false,
     navbar: [
       {
-        text: "Blog",
+        text: "Home",
         link: "/",
       },
+      {
+        text: "Tweets",
+        link: "/tweets",
+      }, 
       {
         text: "More and More",
         children: [
           {
             text: "WIP",
             children: [
+              {
+                text: "短篇小论",
+                link: "/blog",
+              }, 
               {
                 text: "做饭配方手册",
                 link: "/cookbook",

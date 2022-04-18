@@ -3,7 +3,7 @@ home: true
 title: Home
 features:
   - title: Merchant of Venice
-    details: With mirth and laughter let old wrinkles come.And let my liver rather heat with wine.
+    details: With mirth and laughter let old wrinkles come. And let my liver rather heat with wine.
   - title: Don Quixote
     details: Do you see over yonder, friend Sancho, thirty or forty hulking giants? I intend to do battle with them and slay them.
   - title: Socrates
