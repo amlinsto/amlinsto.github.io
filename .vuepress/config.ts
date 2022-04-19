@@ -5,7 +5,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   // 站点配置
   lang: "cn-ZH",
   title: "林斯托",
-  description: "Linsto's works",
+  description: "linsto is here",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
 
   // 主题和它的配置

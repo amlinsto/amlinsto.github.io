@@ -35,5 +35,28 @@ sidebar: false
 - [happy xiao](https://happyxiao.com/)
 - [Tomasz Tunguz](https://tomtunguz.com/)
 - [Fred Wilson](https://avc.com/)
-- [a16z](https://a16z.com/)
 - [灰狐和他的朋友们](https://www.huihoo.com/)
+- [BUFFETT FAQ](http://buffettfaq.com/)
+
+## APP
+- [Google](https://www.google.com/)
+- [Youtube](https://www.youtube.com/)
+- [Wikipedia](https://www.wikipedia.org/)
+- [Twitter](https://twitter.com/)
+- [Reddit](https://www.reddit.com/)
+- [Spotify](https://www.spotify.com/)
+- [Podcasts](https://www.apple.com/apple-podcasts/)
+- [Github](https://github.com/)
+
+## 资产的边界
+- [上海证券交易所](http://www.sse.com.cn/)
+- [深圳证券交易所](http://www.szse.cn/)
+- [香港交易所](https://www.hkex.com.hk/)
+- [Bitcoin](https://bitcoin.org/)
+- [Ethereum](https://ethereum.org/)
+
+## 保险
+- 重疾险·暂未配置
+- 医疗险·暂未配置
+- 意外险·平安健康
+- 寿险·同方全球人寿
