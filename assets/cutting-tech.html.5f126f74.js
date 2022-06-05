@@ -1,0 +1,1 @@
+const t={key:"v-03c6f401",path:"/cookbook/cutting-tech.html",title:"\u5200\u5DE5\u5200\u6CD5",lang:"cn-ZH",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1650368779e3},filePathRelative:"cookbook/cutting-tech.md"};export{t as data};

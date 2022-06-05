@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a,b as o}from"./app.c3f0719f.js";const s={},_={id:"\u5200\u5DE5\u5200\u6CD5",tabindex:"-1"},r=a("a",{class:"header-anchor",href:"#\u5200\u5DE5\u5200\u6CD5","aria-hidden":"true"},"#",-1),n=o(" \u5200\u5DE5\u5200\u6CD5"),d=[r,n];function h(i,f){return t(),c("h1",_,d)}var u=e(s,[["render",h],["__file","cutting-tech.html.vue"]]);export{u as default};

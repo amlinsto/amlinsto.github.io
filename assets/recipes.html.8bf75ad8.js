@@ -1,0 +1,1 @@
+const e={key:"v-61ef4dce",path:"/cookbook/recipes.html",title:"the delectable recipes, and the culinary wizard",lang:"cn-ZH",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u65E9\u9910",slug:"\u65E9\u9910",children:[{level:3,title:"\u8C46\u6D46",slug:"\u8C46\u6D46",children:[]}]}],git:{updatedTime:1650389115e3},filePathRelative:"cookbook/recipes.md"};export{e as data};

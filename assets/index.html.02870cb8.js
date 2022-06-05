@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as s,b as a}from"./app.c3f0719f.js";const n={},c={id:"linsto-s-blog",tabindex:"-1"},_=s("a",{class:"header-anchor",href:"#linsto-s-blog","aria-hidden":"true"},"#",-1),r=a(" Linsto's Blog"),i=[_,r];function d(l,h){return t(),o("h1",c,i)}var x=e(n,[["render",d],["__file","index.html.vue"]]);export{x as default};
