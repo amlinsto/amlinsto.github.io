@@ -36,6 +36,10 @@ export default defineUserConfig<DefaultThemeOptions>({
                 text: "做饭配方手册",
                 link: "/cookbook",
               },
+              {
+                text: "自救手册",
+                link: "/self-rescue",
+              },
             ],
           },
           {
